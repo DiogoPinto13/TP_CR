@@ -1,0 +1,51 @@
+redimenção 30x30
+tansig, purelin, trainlm
+feedforwardnet(20)
+trainRatio =  0.9;
+valRatio =  0.05;
+testRatio = 0.05;
+
+1
+Precisao total (numbers): 96.400000
+Precisao teste (numbers) 64.000000
+Precisao total (operators): 99.000000
+Precisao teste (operators) 80.000000
+
+media da precisao total: 97.700000
+media da precisao teste: 72.000000     
+
+2
+Precisao total (numbers): 95.400000
+Precisao teste (numbers) 60.000000
+Precisao total (operators): 97.000000
+Precisao teste (operators) 70.000000
+
+media da precisao total: 96.200000
+media da precisao teste: 65.000000     
+
+3
+Precisao total (numbers): 96.600000
+Precisao teste (numbers) 72.000000
+Precisao total (operators): 91.500000
+Precisao teste (operators) 70.000000
+
+media da precisao total: 94.050000
+media da precisao teste: 71.000000     
+
+4
+Precisao total (numbers): 96.200000
+Precisao teste (numbers) 56.000000
+Precisao total (operators): 99.000000
+Precisao teste (operators) 100.000000
+
+media da precisao total: 97.600000
+media da precisao teste: 78.000000     
+
+5
+Precisao total (numbers): 95.200000
+Precisao teste (numbers) 44.000000
+Precisao total (operators): 98.500000
+Precisao teste (operators) 70.000000
+
+media da precisao total: 96.850000
+media da precisao teste: 57.000000

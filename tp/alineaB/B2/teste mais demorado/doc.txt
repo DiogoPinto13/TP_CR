@@ -1,0 +1,7 @@
+Precisao total (numbers): 94.600000
+Precisao teste (numbers) 88.000000
+Precisao total (operators): 93.500000
+Precisao teste (operators) 70.000000
+
+media da precisao total: 94.050000
+media da precisao teste: 79.000000

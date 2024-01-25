@@ -1,0 +1,89 @@
+1
+Precisao total (numbers): 58.600000
+Precisao teste (numbers) 49.500000
+Precisao total (operators): 75.500000
+Precisao teste (operators) 71.250000
+
+media da precisao total: 67.050000
+media da precisao teste: 60.375000     
+
+2
+Precisao total (numbers): 58.600000
+Precisao teste (numbers) 49.000000
+Precisao total (operators): 67.500000
+Precisao teste (operators) 57.500000
+
+media da precisao total: 63.050000
+media da precisao teste: 53.250000     
+
+3
+Precisao total (numbers): 64.200000
+Precisao teste (numbers) 60.000000
+Precisao total (operators): 70.000000
+Precisao teste (operators) 66.250000
+
+media da precisao total: 67.100000
+media da precisao teste: 63.125000     
+
+4
+Precisao total (numbers): 63.800000
+Precisao teste (numbers) 53.000000
+Precisao total (operators): 72.500000
+Precisao teste (operators) 67.500000
+
+media da precisao total: 68.150000
+media da precisao teste: 60.250000     
+
+5
+Precisao total (numbers): 54.600000
+Precisao teste (numbers) 43.000000
+Precisao total (operators): 76.000000
+Precisao teste (operators) 67.500000
+
+media da precisao total: 65.300000
+media da precisao teste: 55.250000     
+
+6
+Precisao total (numbers): 54.000000
+Precisao teste (numbers) 44.500000
+Precisao total (operators): 72.500000
+Precisao teste (operators) 62.500000
+
+media da precisao total: 63.250000
+media da precisao teste: 53.500000     
+
+7
+Precisao total (numbers): 62.200000
+Precisao teste (numbers) 56.500000
+Precisao total (operators): 74.000000
+Precisao teste (operators) 72.500000
+
+media da precisao total: 68.100000
+media da precisao teste: 64.500000     
+
+8
+Precisao total (numbers): 60.000000
+Precisao teste (numbers) 49.500000
+Precisao total (operators): 73.500000
+Precisao teste (operators) 72.500000
+
+media da precisao total: 66.750000
+media da precisao teste: 61.000000     
+
+9
+Precisao total (numbers): 54.000000
+Precisao teste (numbers) 44.500000
+Precisao total (operators): 68.500000
+Precisao teste (operators) 62.500000
+
+media da precisao total: 61.250000
+media da precisao teste: 53.500000    
+
+10
+Precisao total (numbers): 65.000000
+Precisao teste (numbers) 59.500000
+Precisao total (operators): 72.500000
+Precisao teste (operators) 62.500000
+
+media da precisao total: 68.750000
+media da precisao teste: 61.000000

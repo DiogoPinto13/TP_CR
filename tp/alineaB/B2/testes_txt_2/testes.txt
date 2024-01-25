@@ -1,0 +1,106 @@
+redimenção 25x25
+tansig, purelin, trainlm
+feedforwardnet(10)
+trainRatio =  0.75;
+valRatio =  0.15;
+testRatio = 0.15;
+
+Execução Nº 1
+Precisao total (numbers): 96.400000
+Precisao teste (numbers) 72.000000
+
+Precisao total (operators): 88.500000
+Precisao teste (operators) 70.000000
+
+media da precisao total: 92.450000
+media da precisao teste: 71.000000
+
+Execução Nº 2
+Precisao total (numbers): 96.400000
+Precisao teste (numbers) 60.000000
+
+Precisao total (operators): 99.000000
+Precisao teste (operators) 80.000000
+
+media da precisao total: 97.700000
+media da precisao teste: 70.000000
+
+Execução Nº 3
+Precisao total (numbers): 65.800000
+Precisao teste (numbers) 32.000000
+
+Precisao total (operators): 97.000000
+Precisao teste (operators) 70.000000
+
+media da precisao total: 81.400000
+media da precisao teste: 51.000000
+
+Execução Nº 4
+Precisao total (numbers): 94.600000
+Precisao teste (numbers) 64.000000
+
+Precisao total (operators): 98.000000
+Precisao teste (operators) 70.000000
+
+media da precisao total: 96.300000
+media da precisao teste: 67.000000
+
+Execução Nº 5
+Precisao total (numbers): 93.400000
+Precisao teste (numbers) 52.000000
+
+Precisao total (operators): 89.000000
+Precisao teste (operators) 80.000000
+
+media da precisao total: 91.200000
+media da precisao teste: 66.000000
+
+Execução Nº 6
+Precisao total (numbers): 95.400000
+Precisao teste (numbers) 52.000000
+
+Precisao total (operators): 68.000000
+Precisao teste (operators) 40.000000
+
+media da precisao total: 81.700000
+media da precisao teste: 46.000000
+
+Execução Nº 7
+Precisao total (numbers): 88.600000
+Precisao teste (numbers) 48.000000
+
+Precisao total (operators): 97.000000
+Precisao teste (operators) 70.000000
+
+media da precisao total: 92.800000
+media da precisao teste: 59.000000
+
+Execução Nº 8
+Precisao total (numbers): 95.400000
+Precisao teste (numbers) 56.000000
+
+Precisao total (operators): 98.000000
+Precisao teste (operators) 70.000000
+
+media da precisao total: 96.700000
+media da precisao teste: 63.000000
+
+Execução Nº 9
+Precisao total (numbers): 92.000000
+Precisao teste (numbers) 76.000000
+
+Precisao total (operators): 96.000000
+Precisao teste (operators) 60.000000
+
+media da precisao total: 94.000000
+media da precisao teste: 68.000000
+
+Execução Nº 10
+Precisao total (numbers): 95.200000
+Precisao teste (numbers) 56.000000
+
+Precisao total (operators): 97.500000
+Precisao teste (operators) 60.000000
+
+media da precisao total: 96.350000
+media da precisao teste: 58.000000
